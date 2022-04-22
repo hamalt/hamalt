@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamalt&count_private=true&show_icons=true&theme=gotham" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamalt&theme=gotham&layout=compact" />
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hamalt&count_private=true&show_icons=true&theme=gotham" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamalt&theme=gotham&layout=compact" />
+</p>
 
 <!--
 **hamalt/hamalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
